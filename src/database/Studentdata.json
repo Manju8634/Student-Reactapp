@@ -1,0 +1,64 @@
+{
+  "Students": [
+    {
+      "id": "1",
+      "studentName": "Kishore",
+      "studentAge": 21,
+      "studentDept": "Mechanical",
+      "studentGen": "Male",
+      "studentEmail": "kishore@gmail.com",
+      "studentPhone": 1123456785,
+      "studentAddress": "Whitefield"
+    },
+    {
+      "id": "2",
+      "studentName": "Mohan",
+      "studentAge": 22,
+      "studentDept": "Computer Science",
+      "studentGen": "Male",
+      "studentEmail": "mohan@gmail.com",
+      "studentPhone": 1123786785,
+      "studentAddress": "Marathahalli"
+    },
+    {
+      "id": "3",
+      "studentName": "Nithin",
+      "studentAge": 22,
+      "studentDept": "Civil",
+      "studentGen": "Male",
+      "studentEmail": "Nithin@gmail.com",
+      "studentPhone": 1123236785,
+      "studentAddress": "Vijaynagar"
+    },
+    {
+      "id": "4",
+      "studentName": "Manoj",
+      "studentAge": 21,
+      "studentDept": "Electronics",
+      "studentGen": "Male",
+      "studentEmail": "manoj@gmail.com",
+      "studentPhone": 1232456785,
+      "studentAddress": "Kr Puram"
+    },
+    {
+      "id": "5",
+      "studentName": "Pavan",
+      "studentAge": 22,
+      "studentDept": "Computer Science",
+      "studentGen": "Male",
+      "studentEmail": "pavan@gmail.com",
+      "studentPhone": 9232456785,
+      "studentAddress": "Rajajinagar"
+    },
+    {
+      "id": "fc18",
+      "studentName": "Manjunath S",
+      "studentAge": "23",
+      "studentDept": "Mechanical",
+      "studentGen": "Male",
+      "studentEmail": "manjunath018634@gmail.com",
+      "studentPhone": "08970928535",
+      "studentAddress": "Whitefield"
+    }
+  ]
+}
